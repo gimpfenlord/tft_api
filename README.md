@@ -22,7 +22,7 @@ Dieses einfache PHP-Skript dient dazu, die aktuellen **Teamfight Tactics (TFT) R
 
 1.  Speichern Sie den Code in einer Datei (z.B. `index.php`) auf Ihrem Webserver.
 
-2.  **API Key Konfiguration:** Der Riot API Key **darf nicht öffentlich in Ihrem Repository gespeichert werden**. Öffnen Sie die PHP-Datei und finden Sie die Zeile:
+2.  **API Key Konfiguration:** Öffnen Sie die PHP-Datei und finden Sie die Zeile:
     ```php
     $apiKey = "DEIN_RIOTS_API_KEY_HIER_EINFUEGEN";
     ```
