@@ -4,12 +4,6 @@ Dieses einfache PHP-Skript dient dazu, die aktuellen **Teamfight Tactics (TFT) R
 
 ---
 
-## 🚀 Funktionsweise
-
-[...] *Funktionsweise bleibt unverändert*
-
----
-
 ## 🛠️ Voraussetzungen
 
 * Ein Webserver mit **PHP** (mindestens PHP 7.x oder höher empfohlen).
